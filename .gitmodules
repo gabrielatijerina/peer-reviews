@@ -1,0 +1,6 @@
+[submodule "employee-classification"]
+	path = employee-classification
+	url = git@github.com:DBerchelmann/employee-classification.git
+[submodule "network_intrusion_detection"]
+	path = network_intrusion_detection
+	url = git@github.com:QuantumKane/network_intrusion_detection.git
